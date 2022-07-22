@@ -1,2 +1,2 @@
 # First-Repo
-첫 repository
+first repository
